@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="title">我的第一个Android APP</string>
+</resources>
